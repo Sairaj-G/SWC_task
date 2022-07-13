@@ -1,16 +1,3 @@
-# swc_task
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A money lending app created in flutter. Uses Firebase Auth for signup/login using email and password. The data of all the transactions is stored on Firebase Firestore.
+The app tells how much money is to be recieved/given to a user having transaction with.
+One can also start a fresh transaction with any user registered with the app.
