@@ -36,7 +36,7 @@ class _MyAppState extends State<home_page> {
             },
           ),
           title: Text(
-            user_username,
+            "Home Page",
           ),
           actions: [
             IconButton(onPressed: (){
